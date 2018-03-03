@@ -1,6 +1,6 @@
 package com.solution.library.Challenges_the_time_in_words_problem;
 
-
+import org.junit.Test;
 
 /**
  * Unit test for simple App.
@@ -8,9 +8,9 @@ package com.solution.library.Challenges_the_time_in_words_problem;
 public class AppTest 
 {
 	@Test
-    public AppTest( String testName )
+    public void AppTest( String testName )
     {
-        super( testName );
+       
     }
 
 }

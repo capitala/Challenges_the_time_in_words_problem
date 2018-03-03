@@ -10,7 +10,7 @@ public class AppTest
 	@Test
     public void AppTest( String testName )
     {
-       
+       System.out.println("Aru");
     }
 
 }

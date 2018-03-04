@@ -10,8 +10,10 @@ public class AppTest
 	@Test
     public void AppTest( String testName )
     {
+       System.out.println("Aru");
        System.out.println("Arvind");
-       System.out.println("Arv");
+       System.out.println("Manisha");
+       System.out.println("Mane");
     }
 
 }

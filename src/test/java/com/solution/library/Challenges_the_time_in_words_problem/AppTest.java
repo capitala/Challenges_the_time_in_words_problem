@@ -12,6 +12,8 @@ public class AppTest
     {
        System.out.println("Aru");
        System.out.println("Arvind");
+       System.out.println("Manisha");
+       System.out.println("Mane");
 
     }
 
